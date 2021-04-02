@@ -77,6 +77,12 @@ section{
     margin-bottom: 0;
     padding-bottom: 6rem;
 }
+.image{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 300px;
+}
 .section ul li{
     line-height: 2em;
     text-justify: auto;
