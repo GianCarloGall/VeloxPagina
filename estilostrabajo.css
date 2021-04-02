@@ -157,9 +157,6 @@ img:hover{
     }
     section{
         margin-top: 0;
-    }
-    .espacio{
-        height: 1em;
-        width: 1rem;
+        padding-top: 50px;
     }
 }
