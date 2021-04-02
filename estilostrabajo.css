@@ -86,13 +86,6 @@ section{
     display: block;
     width: 300px;
 }
-img{
-    position:-webkit-sticky;
-    transition: all 0.5s ease;
-}
-img:hover{
-    transform: scale(0.9);
-}
 .footer{
     background: black;
     padding: 4rem 0;
