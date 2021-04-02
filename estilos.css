@@ -152,6 +152,11 @@ section{
         padding-bottom: 6rem;
         margin-top: 0;
     }
+    .logoimagen{
+        width: 50px;
+        position: relative;
+        margin-left: 1px;
+    }
     section{
         padding-top: 50px;
         margin-top: 0;

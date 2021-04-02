@@ -155,6 +155,11 @@ img:hover{
         padding-bottom: 6rem;
         margin-top: 0;
     }
+    .logoimagen{
+        width: 50px;
+        position: relative;
+        margin-left: 1px;
+    }
     section{
         margin-top: 0;
         padding-top: 50px;
