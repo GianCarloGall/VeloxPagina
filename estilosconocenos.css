@@ -109,7 +109,7 @@ section{
     background: linear-gradient(to bottom,  #000000 7%,#03989e 50%,#000000 93%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#000000',GradientType=0 );
     margin-bottom: 0;
-    padding-bottom: 6rem;
+    padding-bottom: 4rem;
 }
 .justificado{
     text-align: justify;
@@ -140,6 +140,12 @@ section{
         .footer ul li a:hover {
             background: #03989e;
         }
+.gif{
+    margin-top: 20px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
 .main{
     padding-top: 12rem;
 }
