@@ -92,6 +92,7 @@ section{
     margin-right: auto;
     display: block;
     width: 300px;
+    border-radius: 10px;
 }
 .footer{
     background: black;
