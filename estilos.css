@@ -211,4 +211,16 @@ section{
         padding-top: 5rem;
         margin-top: 0;
     }
+    .image1{
+        float: left;
+        margin-left: 30px;
+        width: 150px;
+        border-radius: 10px;
+    }
+    .image2{
+        float: right;
+        margin-right: 30px;
+        width: 150px;
+        border-radius: 10px;
+    }
 }
