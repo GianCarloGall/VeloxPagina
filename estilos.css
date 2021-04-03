@@ -213,13 +213,11 @@ section{
     }
     .image1{
         float: left;
-        margin-left: 20px;
         width: 130px;
         border-radius: 10px;
     }
     .image2{
         float: right;
-        margin-right: 20px;
         width: 130px;
         border-radius: 10px;
     }
