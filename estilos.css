@@ -13,10 +13,13 @@ h1{
     padding-top: 1em;
 }
 .espacio1{
-    padding-top: 350px;
+    padding-top: 50px;
 }
 .espacio2{
     height: 30px;
+}
+.espacio3{
+    height: 25px;
 }
 p{
     margin-bottom: 1.6em;
@@ -109,15 +112,10 @@ section{
     border-radius: 10px;
 }
 .image1{
-    float: left;
-    margin-left: 100px;
-    width: 280px;
-    border-radius: 10px;
-}
-.image2{
-    float: right;
-    margin-right: 100px;
-    width: 280px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 200px;
     border-radius: 10px;
 }
 .section ul li{
@@ -210,20 +208,5 @@ section{
     section{
         padding-top: 5rem;
         margin-top: 0;
-    }
-    .image1{
-        float: left;
-        margin-left: 5px;
-        width: 130px;
-        border-radius: 10px;
-    }
-    .image2{
-        float: right;
-        margin-right: 5px;
-        width: 130px;
-        border-radius: 10px;
-    }
-    .espacio1{
-        padding-top: 80px;
     }
 }
