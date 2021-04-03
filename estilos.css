@@ -213,15 +213,17 @@ section{
     }
     .image1{
         float: left;
+        margin-left: 5px;
         width: 130px;
         border-radius: 10px;
     }
     .image2{
         float: right;
+        margin-right: 5px;
         width: 130px;
         border-radius: 10px;
     }
     .espacio1{
-        padding-top: 20px;
+        padding-top: 60px;
     }
 }
